@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.log
+backup_lab_03/
+push_to_github.bat
